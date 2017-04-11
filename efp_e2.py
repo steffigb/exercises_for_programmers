@@ -1,0 +1,6 @@
+wort = input("Gib ein Wort ein. ")
+laenge = len(wort)
+#type(laenge)
+#print(type(laenge))
+#print(laenge)
+print("Dein Wort lautet " + wort + " und besteht aus " + str(laenge) + " Buchstaben." )
